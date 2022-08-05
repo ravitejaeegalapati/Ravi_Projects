@@ -8,19 +8,19 @@ Because so many people are losing their hands or legs owing to various causes su
 
 ### **Specific Contribution💪**
 
-• Developed Machine Learning Algorithm for classifying the actions based on data acquired from the Node-Red using Emotiv Insight Sensor
-• Sending data from Node-Red to the microcontroller wirelessly and actuating the bionic arm
-• Obtained EEG frequency values using Node-RED and sensor
+1. Developed Machine Learning Algorithm for classifying the actions based on data acquired from the Node-Red using Emotiv Insight Sensor
+2. Sending data from Node-Red to the microcontroller wirelessly and actuating the bionic arm
+3. Obtained EEG frequency values using Node-RED and sensor
 
 ### **Specific Learning👨‍🎓**
-• Learnt the basic operation of the software Node-RED Toolbox
-• Learnt about basic usage of python programming language in developing an efficient machine learning algorithm
-• Programming a microcontroller to receive the data from Node-RED wirelessly
+1. Learnt the basic operation of the software Node-RED Toolbox
+2. Learnt about basic usage of python programming language in developing an efficient machine learning algorithm
+3. Programming a microcontroller to receive the data from Node-RED wirelessly
 
 ### **Technical Limitations & Ethical Challenges faced ⛓**
-• Machine learning model used to give wring predictions due to data insufficiency
-• Bluetooth mode of data transfer from Node-RED to microcontroller haven’t worked due to improper functionality of Bluetooth node in Node-RED
-• Emotiv Insight used to get disconnected frequently
+1. Machine learning model used to give wring predictions due to data insufficiency
+2. Bluetooth mode of data transfer from Node-RED to microcontroller haven’t worked due to improper functionality of Bluetooth node in Node-RED
+3. Emotiv Insight used to get disconnected frequently
 >Keywords: Bionic arm, EEG data, Electromagnetic Band, Brain Impulses
 
 ### *Folder Conists 📁*
