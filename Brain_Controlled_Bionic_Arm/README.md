@@ -22,7 +22,7 @@ Because so many people are losing their hands or legs owing to various causes su
     Keywords: Bionic arm, EEG data, Electromagnetic Band, Brain Impulses
 
 ## *Folder Conists 📁*
-    1) [Overview](https://github.com) about the project
+    1) [ Overview ] (https://github.com/ravitejaeegalapati/Ravi_Projects/tree/main/Brain_Controlled_Bionic_Arm) about the project
     2) Demonstartion Videos 
     3) Arduino Code
     4) Project Report submitted to university
