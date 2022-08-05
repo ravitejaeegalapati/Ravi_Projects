@@ -2,7 +2,7 @@
 ## **Name of the Guide**: Dr. Anjan Kumar Dash, Professor, SoME
 
 ## **Abstract📃**
-    Because so many people are losing their hands or legs owing to various causes such as accidents, surgeries, etc., "amputated persons" is the most widely heard word these days. We focused on a group of people who had their hands amputated and learned about their issues in everyday life, such as holding objects, making nonverbal gestures, writing, and so on. We've taken on two half-finished projects, one of which predicts our actions based on brain signal frequencies and the other of which is a bionic arm controlled by an electromagnetic band. We considered connecting the EEG data from the brain sensor to the bionic arm so that the arm could respond to the brain impulses and act accordingly.
+Because so many people are losing their hands or legs owing to various causes such as accidents, surgeries, etc., "amputated persons" is the most widely heard word these days. We focused on a group of people who had their hands amputated and learned about their issues in everyday life, such as holding objects, making nonverbal gestures, writing, and so on. We've taken on two half-finished projects, one of which predicts our actions based on brain signal frequencies and the other of which is a bionic arm controlled by an electromagnetic band. We considered connecting the EEG data from the brain sensor to the bionic arm so that the arm could respond to the brain impulses and act accordingly.
 
 ## **Specific Contribution💪**
 
